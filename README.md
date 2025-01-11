@@ -1,1 +1,1 @@
-# Simple_Neural_Network
+This project utilizes a simple neural network built with TensorFlow/Keras to classify green technologies as sustainable or unsustainable. The model is trained on a dataset containing information about carbon emissions, renewability index, and cost efficiency of various green technologies. By analyzing these factors, the model learns to identify patterns and make predictions about the overall sustainability of a given technology.
